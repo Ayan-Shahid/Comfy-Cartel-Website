@@ -23,7 +23,7 @@ export const Input = styled.input`
 	border: 0.1rem solid ${({ theme: { colors } }) => colors.secondary[500]};
 	border-radius: 0.5rem;
 	color: ${({ theme: { colors } }) => colors.secondary[500]};
-	font-size: ${({ theme: { fonts } }) => fonts.sm};
+	font-size: ${({ theme: { fonts } }) => fonts.small};
 	gap: 0.5rem;
 	transition: 0.2s ease-in-out;
 	padding: 1.125rem;
