@@ -1,0 +1,17 @@
+export { default as Button } from "./Button";
+export { default as Input } from "./Input";
+export { default as Pricing } from "./Pricing";
+export { default as Card } from "./Card";
+export { default as Carousal } from "./Carousal";
+export { default as CheckBox } from "./CheckBox";
+export { default as Timeline } from "./Timeline";
+export { default as Form1 } from "./Form1";
+export { default as Form2 } from "./Form2";
+export { default as Form3 } from "./Form3";
+export { default as MainForm } from "./MainForm";
+export { default as Header } from "./Header";
+export { default as Main1 } from "./Main1";
+export { default as Main2 } from "./Main2";
+export { default as Main3 } from "./Main3";
+export { default as Main4 } from "./Main4";
+export { default as Main5 } from "./Main5";
