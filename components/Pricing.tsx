@@ -12,7 +12,7 @@ const Pricing: FunctionComponent = () => {
 			<Styled.Small>lorem ipusm lorem ipsum</Styled.Small>
 			<Styled.Small>lorem ipusm lorem ipsum</Styled.Small>
 			<Styled.Small>lorem ipusm lorem ipsum</Styled.Small>
-			<Button size="large" text="Buy Subscription" />
+			<Button text="Buy Subscription" />
 		</Styled.Wrapper>
 	);
 };
