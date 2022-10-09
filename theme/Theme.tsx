@@ -1,7 +1,7 @@
 import React, { FunctionComponent, ReactNode } from "react";
-import { ThemeProvider } from "styled-components";
+import { DefaultTheme, ThemeProvider } from "styled-components";
 
-const theme = {
+const theme: DefaultTheme = {
 	colors: {
 		primary: {
 			100: "#6100FF",
