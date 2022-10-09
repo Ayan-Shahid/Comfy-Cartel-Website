@@ -19,12 +19,7 @@ const Card: FunctionComponent = () => {
 						<Styled.BoldSubtitle>Modern Interior</Styled.BoldSubtitle>
 						<Styled.Small>Check out this modern interior design.</Styled.Small>
 					</div>
-					<Button
-						icon={<Bag />}
-						className="button"
-						size="large"
-						text="Discover"
-					/>
+					<Button icon={<Bag />} className="button" text="Discover" />
 				</Styled.Caption>
 			</Styled.Figure>
 		</Styled.Wrapper>
